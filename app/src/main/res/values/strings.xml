@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Tarefas</string>
+    <string name="nova_tarefa">Nova Tarefa</string>
+    <string name="nome">Nome</string>
+    <string name="descri_ao">Descriçao</string>
+    <string name="datainicio">Data Inicio</string>
+    <string name="datafim">Data Fim</string>
+    <string name="enviar">Enviar</string>
+    <string name="editar">Editar</string>
+    <string name="tarefa_realizada">Tarefa Realizada</string>
+    <string name="deletar">Deletar</string>
+    <string name="title_activity_main2">Main2Activity</string>
+</resources>
